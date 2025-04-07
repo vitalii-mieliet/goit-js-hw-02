@@ -24,6 +24,8 @@
 
 'use srtrict';
 
+console.log('Task-1');
+
 //! 1st variant
 
 // function makeTransaction(quantity, pricePerDroid, customerCredits) {
